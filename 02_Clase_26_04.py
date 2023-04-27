@@ -57,7 +57,7 @@ print(conjunto_vacio)
 
 
 #DICCIONARIO 
-#como las listas, god
+#como las listas, cualquier variable
 diccionario = dict()
 diccionario={}
 
