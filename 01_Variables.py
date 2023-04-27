@@ -10,7 +10,7 @@ print (name)
 print ("Hola soy", nombre)
 
 #colocar edad
-edad=45
+edad=44
 print ("hola", name , "mi edad es de", edad)
 
 ###Imprimiendo 2 varianbles en una cadena usando +

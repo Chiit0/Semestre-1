@@ -8,7 +8,7 @@ print("resta",c-a)
 print("exponente",b**d)
 #faltan
 
-#GRAVEDAD
+#GRAVEDAD Y VELOCIDAD
 t=5.19
 g=9.81
 v=g*t
