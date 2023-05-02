@@ -44,3 +44,36 @@ animal_salvaje="leopardo"
 print(animal_domestico==animal_salvaje)
 print(animal_domestico>animal_salvaje)
 print(animal_domestico<animal_salvaje)
+
+print(len(animal_domestico)>len(animal_salvaje))
+
+
+bencina = False
+encendido = True
+edad = 19
+
+#Utilizando el operador AND
+if bencina and encendido:
+    print("El vehiculo puede avanzar")
+else:
+    print("El vehichulo no puede arrancar")
+
+#Utilizando el operador OR
+if bencina or encendido:
+    print("El vehiculo puede avanzar")
+else:
+    print("El vehichulo no puede arrancar")
+
+#Utilizando NOT y OR/AND
+if not bencina and encendido:
+        print("UTILIZANDO NOT Y AND: El vehiculo puede avanzar")
+else:
+    print("El vehichulo no puede arrancar")
+
+#OOOO
+bencina = True
+if not bencina or (encendido and edad>=18):
+        print("El vehiculo puede avanzar")
+else:
+    print("El vehichulo no puede arrancar")
+print(7!=8)
