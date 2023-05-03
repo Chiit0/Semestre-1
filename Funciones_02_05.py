@@ -19,4 +19,4 @@ Clase={
 NotaFinal=float(NotaLab1)*0.3 + float(NotaLab2)*0.7
 print(Clase)
 print(f"Promedio de laboratiorios:\n {NotaFinal:.1f}")
-print("Promedio de Laboratorios (rancio)\n: {:.1f}".format(NotaFinal))
+print("Promedio de Laboratorios (rancio):\n {:.1f}".format(NotaFinal))

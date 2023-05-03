@@ -32,6 +32,7 @@ print("hola" * 2)
 print("comparando números")
 print(a == b) # "==" no es lo mismo que "="
 print(b)
+print(a!=b)
 print(a>b)
 print(a<b)
 print(a>=b)
@@ -76,4 +77,18 @@ if not bencina or (encendido and edad>=18):
         print("El vehiculo puede avanzar")
 else:
     print("El vehichulo no puede arrancar")
-print(7!=8)
+
+#01-WHILE
+#while edad > 18:
+#    print("El vehiculo puede avanzar") #BUCLE INFINITO
+
+num = 0
+while num <= 200:
+     print(num)
+     num += 2
+
+while num <= 200:
+    print(num)
+    num+=2
+else:
+     print("Mi condición es igual o mayor a 200")
