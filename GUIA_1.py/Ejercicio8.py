@@ -11,5 +11,3 @@ elif mes in ["octubre", "noviembre", "diciembre"]:
         print(f"La estación en {mes} es la primavera")
 else:
      print(f"{mes} no es un mes valido")
-
-

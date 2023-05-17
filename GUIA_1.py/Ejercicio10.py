@@ -13,7 +13,7 @@ contacto={
     "Número telefonico":"9-988-024-96"
 }
 contacto["Linkedin"] = "Pepe Martinez"
-contacto["Facebook"] = "Pepe Martinez Corrales"
+contacto["Facebook"] = "Pepe Martinez Corral"
 contacto["Instagram"] = "@pepito.m"
 
 print(contacto["Facebook"])

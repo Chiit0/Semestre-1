@@ -6,7 +6,6 @@
 #c) Eliminar los n´umeros duplicados de la lista
 #d) Obtener la media y la mediana de la lista
 numeros = [4, 3, 8, 12, 6, 10, 14, 3, 6]
-print(type(numeros))
 numeros.pop(-1)
 numeros.insert(0,2)
 numeros = set(numeros)
