@@ -92,3 +92,13 @@ while num <= 200:
     num+=2
 else:
      print("Mi condición es igual o mayor a 200")
+
+age = 19
+print("usted puede votar" if age >= 18 else "no puedes votar aún")
+
+Num = 0
+while Num <=50:
+    Num+=2
+    if Num == 40:
+      continue
+    print(Num)
