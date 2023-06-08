@@ -1,7 +1,7 @@
 def ingresar_nombres():
     nombres = []
 
-    nombre = input("Ingrese los nombres aquí ('q' para finalizar):  \n>")
+    nombre = input("Ingrese los nombres aquí (escriba 'q' para finalizar):  \n>")
     while nombre != "q":
         nombres.append(nombre)
         nombre = input(">")
