@@ -20,3 +20,8 @@ data = [1,"Matias",True,100,"Caballo"]
 codigo, minombre, estado, peso, animal = data 
 print(data)
 print(minombre)
+
+print(10>5)
+n=2/3
+print(float(n)) #DECIMAL
+print(int(n)) #ENTERO
