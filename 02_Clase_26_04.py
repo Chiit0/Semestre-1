@@ -59,7 +59,7 @@ print(conjunto_vacio)
 #DICCIONARIO 
 #como las listas, cualquier variable
 diccionario = dict()
-diccionario={}
+diccionario={} 
 
 datos_personales = {
     "Nombre":"Victor",

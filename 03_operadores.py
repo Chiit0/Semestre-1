@@ -101,4 +101,4 @@ while Num <=50:
     Num+=2
     if Num == 40:
       continue
-    print(Num)
+    print(Num) 
